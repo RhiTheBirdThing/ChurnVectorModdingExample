@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LiteW8
+  m_EditorClassIdentifier: 
+  m_GroupName: LiteW8
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b9cf31f8dc457e24a8faec5156376dcf
+  m_SerializeEntries:
+  - m_GUID: 86fb18da3e31fb3438fb7311f3dd6a64
+    m_Address: Assets/liteweight testmap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65a348f9b5d7e2d40a4064f222fdb3f2
+    m_Address: Assets/liteweight testmap/litew8.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ce766fe41c31a74693a69421b6f7fe4
+    m_Address: Assets/liteweight testmap/New Level.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ChurnVectorLevel
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46fd4e47673eef542b565b7b867c180f
+    m_Address: Assets/liteweight testmap/localization
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94095fe23d4a66842adf47ed58cd2c33
+    m_Address: Assets/liteweight testmap/localization/litew8 Shared Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6408531eb7be4d74d80911ac769fbf65
+    m_Address: litew8_en
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 880d5a8f8e7234146a99b208b25b915b
+    m_Address: Assets/liteweight testmap/gloryholes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d6f15c56fb6f6084da6987e06d36c051, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bf832693789fd64498086792dc19ecd1, type: 2}
+    - {fileID: 11400000, guid: 81834f6310af9304c864e1541543bb9c, type: 2}

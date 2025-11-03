@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1455419500262090630
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3928310840395557611, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: characterSpawnInfo.civilianPrefab.m_AssetGUID
+      value: afa52f81c22bdaf4fa9dcaf45d43714f
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 51.152283
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6011069
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30.245382
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7918511966215387336, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394019776041090064, guid: 9b594aa559947cd44a86c7273b5109fe,
+        type: 3}
+      propertyPath: m_Name
+      value: CharacterLoader (1) Variant Variant Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9b594aa559947cd44a86c7273b5109fe, type: 3}

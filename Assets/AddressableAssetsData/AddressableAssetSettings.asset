@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: d4f19c8526b35754195beb82c46e5267
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 6256a4d5a4ecb71dfb04bc8efbf5f9e7
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -76,6 +76,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2c762abe82009c24a90a707bddfe1ec4, type: 2}
   - {fileID: 11400000, guid: 03b1fe36a89234148b3b6e3ee0c48c33, type: 2}
   - {fileID: 11400000, guid: ba41ba5f97f56b245ab9bece70be4939, type: 2}
+  - {fileID: 11400000, guid: 0a250436f6a6a684a964c932e01bca20, type: 2}
+  - {fileID: 11400000, guid: c2488f78e24ebfa418ac232956ed2eaf, type: 2}
+  - {fileID: 11400000, guid: 0ca929a59a06f05438258cbaa9e8ec9f, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -98,7 +101,7 @@ MonoBehaviour:
       - m_Id: 844a40117c8f61844a621b936e1dc210
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
       - m_Id: 57783aa40543ccd4ba899d8a06580051
-        m_Value: '[UnityEngine.Application.persistentDataPath]/mods/PlayerWithAHatMod/[BuildTarget]'
+        m_Value: '[UnityEngine.Application.persistentDataPath]/mods/LiteW8/[BuildTarget]'
       - m_Id: aa5e3913ee0e93a429d15ecdefa13dde
         m_Value: '{fe63e628-ea59-46e9-8411-850a7865c194}/[BuildTarget]'
     m_ProfileEntryNames:

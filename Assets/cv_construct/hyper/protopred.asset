@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7c2a5183c6103429b9d13fd979b207, type: 3}
+  m_Name: protopred
+  m_EditorClassIdentifier: 
+  steamWorkshopID: 3247467267
+  visibility: 2
+  title: proto pred
+  description: for private use
+  changeNotes: 
+  previewIcon: {fileID: 21300000, guid: 8aacf313330a6de4a9c5dac79f69e126, type: 3}
+  tags: 1
+  language: 0
+  customLocalization: []
+  levels: []
+  replacementCharacters:
+  - existingCharacter:
+      m_AssetGUID: cb8dd3adce5c40544b99b2d5fd0d49f9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    replacementCharacter:
+      m_AssetGUID: 8b4d029c3dbcde74a88148f9d63344e7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

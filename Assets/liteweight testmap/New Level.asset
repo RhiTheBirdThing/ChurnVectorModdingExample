@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f794e32e82ed5164cbb2f3809c25affa, type: 3}
+  m_Name: New Level
+  m_EditorClassIdentifier: 
+  localizedLevelName:
+    m_TableReference:
+      m_TableCollectionName: GUID:94095fe23d4a66842adf47ed58cd2c33
+    m_TableEntryReference:
+      m_KeyId: 12362874880
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedLevelDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:94095fe23d4a66842adf47ed58cd2c33
+    m_TableEntryReference:
+      m_KeyId: 17391845376
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  levelPreview: {fileID: 21300000, guid: 7e4261ad229d694429fe31168990ed1b, type: 3}
+  scene:
+    m_AssetGUID: 65a348f9b5d7e2d40a4064f222fdb3f2
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+    name: litew8
+  category:
+    m_AssetGUID: ee6a0d8ef6b61924a8cd1b0e43e61cde
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  levelOrderPriority: 0
+  requiresPreviousLevelToBeBeatenToPlay: 0
+  references:
+    version: 2
+    RefIds: []

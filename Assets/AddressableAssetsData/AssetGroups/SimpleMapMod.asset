@@ -17,12 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: ea467353effd05843bc2f2167761950b
   m_SerializeEntries:
-  - m_GUID: cdace73fdff26a34cb3a64a81d71989f
-    m_Address: Assets/SimpleMapMod/SimpleMap.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ChurnVectorLevel
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8124e5870f4fd4c779e7a5f994e84ad1
     m_Address: Assets/ExampleScene.unity
     m_ReadOnly: 0
