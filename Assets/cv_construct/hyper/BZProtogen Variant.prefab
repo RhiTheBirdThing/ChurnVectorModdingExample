@@ -2952,7 +2952,7 @@ MonoBehaviour:
     mask:
       renderer: {fileID: 3253450601623597457}
       mask: -1
-    penetratorRootTransform: {fileID: 23607244226481448}
+    penetratorRootTransform: {fileID: 1834059844006912589}
     penetratorRootPositionOffset: {x: -0.000012875231, y: 0.0000076274655, z: 3.1332092e-10}
     penetratorRootForward: {x: 0.000000029802319, y: 1, z: -0.00000023841855}
     penetratorRootUp: {x: 0.9703467, y: -0.00000017881393, z: -0.2417179}

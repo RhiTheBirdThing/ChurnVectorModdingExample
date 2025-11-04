@@ -123,7 +123,7 @@ MonoBehaviour:
   m_CostModifier: -1
   m_Bidirectional: 0
   m_AutoUpdatePosition: 0
-  m_Area: 4
+  m_Area: 0
 --- !u!114 &1745733984124380693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -189,7 +189,7 @@ MonoBehaviour:
   m_CostModifier: -1
   m_Bidirectional: 0
   m_AutoUpdatePosition: 0
-  m_Area: 4
+  m_Area: 0
 --- !u!114 &4016329044388032861
 MonoBehaviour:
   m_ObjectHideFlags: 0

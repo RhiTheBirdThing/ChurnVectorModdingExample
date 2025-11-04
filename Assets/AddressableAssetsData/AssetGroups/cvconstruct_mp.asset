@@ -23,36 +23,23 @@ MonoBehaviour:
     m_SerializedLabels:
     - ChurnVectorLevel
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0949e45d7ea07374d889da2b7766228b
-    m_Address: Assets/cv_construct2.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 344cc3ceb6e4a4a449c793ac76d6a5b1
     m_Address: Assets/cv_construct/newassets/ovkanga/ovkanga.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - ChurnVectorCharacter
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d1903abee6f458547bf8be72d4d95a50
-    m_Address: Assets/cv_construct/newassets
+  - m_GUID: 8b4d029c3dbcde74a88148f9d63344e7
+    m_Address: Assets/cv_construct/hyper/BZProtogen Variant.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7d377a4e9dc114f46a315f918e5433e4
-    m_Address: Assets/cv_construct/oldassets
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3f748fca59c4ce945a08022a0ed21e86
-    m_Address: Assets/cv_construct/hyper
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - ChurnVectorCharacter
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 209f4bc051336734bb3ccab3e91cfdf1
     m_Address: Assets/cv_construct/cvgruff 1/GruffCV.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - ChurnVectorCharacter
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d74302e39d13d8a44a686e3603a31f27
     m_Address: Assets/cv_construct/auh/construct Shared Data.asset
@@ -65,27 +52,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Locale-en
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8b4d029c3dbcde74a88148f9d63344e7
-    m_Address: Assets/cv_construct/hyper/BZProtogen Variant.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ChurnVectorCharacter
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0f45758f6eb121945bad5a5123819151
-    m_Address: Assets/cv_construct/oldassets/npcprefabs
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4c9ca27e67db5f04d8435ab07e43d10b
-    m_Address: Assets/cv_construct/newassets/NeedStation 1.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3aeb7dadc0c69d54d9e5777e9d5631f1
-    m_Address: Assets/Standard Assets/PhysicsMaterials/Wood.physicmaterial
-    m_ReadOnly: 0
-    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d6f15c56fb6f6084da6987e06d36c051, type: 2}

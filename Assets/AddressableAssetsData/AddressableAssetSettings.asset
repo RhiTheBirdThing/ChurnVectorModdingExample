@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: d4f19c8526b35754195beb82c46e5267
   m_currentHash:
     serializedVersion: 2
-    Hash: 33679ef440848fff9a5f6c17a12fe7f1
+    Hash: 026a71ef5bb63b97bd779434a08ad5ea
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -80,6 +80,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c2488f78e24ebfa418ac232956ed2eaf, type: 2}
   - {fileID: 11400000, guid: 0ca929a59a06f05438258cbaa9e8ec9f, type: 2}
   - {fileID: 11400000, guid: 2bb8ff80dcc9f294ba1474df37de2ac2, type: 2}
+  - {fileID: 11400000, guid: bc32e9f5d3de3294d8cd9eced391bc3a, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -102,7 +103,7 @@ MonoBehaviour:
       - m_Id: 844a40117c8f61844a621b936e1dc210
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
       - m_Id: 57783aa40543ccd4ba899d8a06580051
-        m_Value: '[UnityEngine.Application.persistentDataPath]/mods/cvconstruct_mp/[BuildTarget]'
+        m_Value: '[UnityEngine.Application.persistentDataPath]/mods/protopred/[BuildTarget]'
       - m_Id: aa5e3913ee0e93a429d15ecdefa13dde
         m_Value: '{fe63e628-ea59-46e9-8411-850a7865c194}/[BuildTarget]'
     m_ProfileEntryNames:
