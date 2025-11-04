@@ -17,11 +17,11 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: e40119d9dd509c14bbfe4c79a43bc454
   m_SerializeEntries:
-  - m_GUID: 3a19dbda8dff60b479ca0a670d2e8e46
-    m_Address: Assets/cv_construct/cvconstruct.asset
+  - m_GUID: 209f4bc051336734bb3ccab3e91cfdf1
+    m_Address: Assets/cv_construct/cvgruff 1/GruffCV.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
-    - ChurnVectorLevel
+    - ChurnVectorCharacter
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 344cc3ceb6e4a4a449c793ac76d6a5b1
     m_Address: Assets/cv_construct/newassets/ovkanga/ovkanga.prefab
@@ -29,23 +29,22 @@ MonoBehaviour:
     m_SerializedLabels:
     - ChurnVectorCharacter
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a19dbda8dff60b479ca0a670d2e8e46
+    m_Address: Assets/cv_construct/cvconstruct.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ChurnVectorLevel
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76f186a209d941444b0dbcb4d79ebe80
+    m_Address: Assets/cv_construct/level.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8b4d029c3dbcde74a88148f9d63344e7
     m_Address: Assets/cv_construct/hyper/BZProtogen Variant.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - ChurnVectorCharacter
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 209f4bc051336734bb3ccab3e91cfdf1
-    m_Address: Assets/cv_construct/cvgruff 1/GruffCV.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ChurnVectorCharacter
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d74302e39d13d8a44a686e3603a31f27
-    m_Address: Assets/cv_construct/auh/construct Shared Data.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Locale
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9594384e296174243857e3a3dc349839
     m_Address: construct_en
@@ -53,14 +52,15 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 76f186a209d941444b0dbcb4d79ebe80
-    m_Address: Assets/cv_construct/level.unity
+  - m_GUID: d74302e39d13d8a44a686e3603a31f27
+    m_Address: Assets/cv_construct/auh/construct Shared Data.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Locale
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d6f15c56fb6f6084da6987e06d36c051, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 4d8b221890ceb104ebc4631802910d30, type: 2}
     - {fileID: 11400000, guid: 1c201570ba6dc4e46b0f029e48bfa802, type: 2}
+    - {fileID: 11400000, guid: 4d8b221890ceb104ebc4631802910d30, type: 2}
