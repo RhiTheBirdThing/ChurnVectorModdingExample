@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: ExternalCatalog
   m_EditorClassIdentifier: 
   assetGroups:
-  - {fileID: 11400000, guid: bc32e9f5d3de3294d8cd9eced391bc3a, type: 2}
+  - {fileID: 11400000, guid: 0a250436f6a6a684a964c932e01bca20, type: 2}
   buildPath:
     m_Id: 57783aa40543ccd4ba899d8a06580051
   runtimeLoadPath:
     m_Id: aa5e3913ee0e93a429d15ecdefa13dde
-  catalogName: protopred
+  catalogName: cvconstruct_mp
