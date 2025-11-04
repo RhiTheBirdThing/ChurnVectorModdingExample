@@ -92,7 +92,7 @@ PrefabInstance:
         type: 3}
       propertyPath: characterSpawnInfo.overrideGroups.Array.data[0]
       value: 
-      objectReference: {fileID: 11400000, guid: ba3cce5dfb04d2145a9bfb45ac7fb4cd,
+      objectReference: {fileID: 11400000, guid: c7585955a56eeb446805ff8c0c116cbc,
         type: 2}
     - target: {fileID: 6578152219662100203, guid: 994e419820de3c64ca61620bc6ed5582,
         type: 3}
@@ -109,7 +109,7 @@ PrefabInstance:
         type: 3}
       propertyPath: characterSpawnInfo.overrideUseByGroups.Array.data[0]
       value: 
-      objectReference: {fileID: 11400000, guid: ba3cce5dfb04d2145a9bfb45ac7fb4cd,
+      objectReference: {fileID: 11400000, guid: c7585955a56eeb446805ff8c0c116cbc,
         type: 2}
     - target: {fileID: 6578152219662100203, guid: 994e419820de3c64ca61620bc6ed5582,
         type: 3}

@@ -34,11 +34,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - ChurnVectorCharacter
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3de71e2324885074badccbf87ebdb48a
-    m_Address: Assets/cv_construct/newassets/Need station L=5.controller
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d1903abee6f458547bf8be72d4d95a50
     m_Address: Assets/cv_construct/newassets
     m_ReadOnly: 0
@@ -46,11 +41,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7d377a4e9dc114f46a315f918e5433e4
     m_Address: Assets/cv_construct/oldassets
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 703a8a63a02ad144d920bd279ab9e704
-    m_Address: Assets/cv_construct/NavMesh-default.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

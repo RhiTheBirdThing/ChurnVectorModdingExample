@@ -10,8 +10,33 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
         type: 3}
+      propertyPath: characterSpawnInfo.inputSource
+      value: 1986100726815522848
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
+        type: 3}
+      propertyPath: managedReferences[1986100726815522825]
+      value: com.gatordragongames.churn-vector.sdk ActorActions.ActionBeACivilian
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
+        type: 3}
+      propertyPath: managedReferences[1986100726815522848]
+      value: com.gatordragongames.churn-vector.sdk AI.CharacterActor
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
+        type: 3}
+      propertyPath: managedReferences[1986100726815522849]
+      value: com.gatordragongames.churn-vector.sdk ActorActions.ActionBeACivilian
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
+        type: 3}
       propertyPath: characterSpawnInfo.overrideGroups.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
+        type: 3}
+      propertyPath: managedReferences[1986100726815522848].debug
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
         type: 3}
@@ -27,14 +52,24 @@ PrefabInstance:
         type: 3}
       propertyPath: characterSpawnInfo.overrideGroups.Array.data[0]
       value: 
-      objectReference: {fileID: 11400000, guid: 05090d5597b890947b11952c472465e7,
+      objectReference: {fileID: 11400000, guid: 3ac1c920d0ba24e469068f34678e545e,
         type: 2}
     - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
         type: 3}
       propertyPath: characterSpawnInfo.overrideUseByGroups.Array.data[0]
       value: 
-      objectReference: {fileID: 11400000, guid: ec1fec478d524aa40b206a0b69102e38,
+      objectReference: {fileID: 11400000, guid: c7585955a56eeb446805ff8c0c116cbc,
         type: 2}
+    - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
+        type: 3}
+      propertyPath: managedReferences[1986100726815522848].startingAction
+      value: 1986100726815522849
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594691811771969396, guid: 52e2af69d5a45f84eaff4acced5d00fd,
+        type: 3}
+      propertyPath: managedReferences[4870451204318298119].startingAction
+      value: 1986100726815522825
+      objectReference: {fileID: 0}
     - target: {fileID: 5566843350184705367, guid: 52e2af69d5a45f84eaff4acced5d00fd,
         type: 3}
       propertyPath: m_LocalPosition.x

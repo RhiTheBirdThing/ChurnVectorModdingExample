@@ -16,8 +16,7 @@ MonoBehaviour:
   visibility: 0
   title: cv_construct
   description: An empty sandbox for you to mess around in. Maybe a bit *too* empty...
-  changeNotes: god it's been a while. anywyas added a recumbobulator and some lights,
-    plus fixed the fluorecsent lights' uvs by making them from scratch
+  changeNotes: hopefully this stays temporary
   previewIcon: {fileID: 21300000, guid: 25f71f401cae0734b89146d9f6220165, type: 3}
   tags: 2
   language: 0

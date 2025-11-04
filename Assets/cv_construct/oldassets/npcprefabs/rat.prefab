@@ -76,7 +76,7 @@ PrefabInstance:
     - target: {fileID: 8324441434302735458, guid: 24224ada46fba98478011a349731d63e,
         type: 3}
       propertyPath: managedReferences[4870451204318298119].debug
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8324441434302735458, guid: 24224ada46fba98478011a349731d63e,
         type: 3}

@@ -455,8 +455,8 @@ MonoBehaviour:
     overrideGroups:
     - {fileID: 11400000, guid: 05090d5597b890947b11952c472465e7, type: 2}
     overrideUseByGroups:
-    - {fileID: 0}
-  submissiveAnimatorController: {fileID: 9100000, guid: abf96fef8f64d474ea578c5b1f54422b,
+    - {fileID: 11400000, guid: ec1fec478d524aa40b206a0b69102e38, type: 2}
+  submissiveAnimatorController: {fileID: 9100000, guid: 8895f37439130364c93afb15d4809332,
     type: 2}
   submissiveTargetPosition: {fileID: 6614305869825290032}
   submissiveIKTargets:

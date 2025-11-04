@@ -11,10 +11,10 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
-  - name: 
-    cost: 1
-  - name: 
-    cost: 1
+  - name: Teleport
+    cost: 0.0001
+  - name: Last Resort
+    cost: Infinity
   - name: 
     cost: 1
   - name: 

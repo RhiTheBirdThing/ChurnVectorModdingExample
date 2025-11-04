@@ -39,17 +39,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 94095fe23d4a66842adf47ed58cd2c33
-    m_Address: Assets/liteweight testmap/localization/litew8 Shared Data.asset
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6408531eb7be4d74d80911ac769fbf65
-    m_Address: litew8_en
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Locale-en
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 880d5a8f8e7234146a99b208b25b915b
     m_Address: Assets/liteweight testmap/gloryholes
     m_ReadOnly: 0
